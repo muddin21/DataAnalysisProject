@@ -1,2 +1,2 @@
 # DataAnalysisProject
-## [DataAnalysisProject](https://muddin21.github.io/DataAnalysisProject/)
+## [Data Analysis Project](https://muddin21.github.io/DataAnalysisProject/)
